@@ -82,7 +82,7 @@ gaussian_one + gaussian_one
 
 ## Contributions
 
-Code provided by AWS Machine Learning Foundations Nanodegree Program.
+Starter code provided by AWS Machine Learning Foundations Nanodegree Program.
 
 ## Questions
 
