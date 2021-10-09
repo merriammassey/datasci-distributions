@@ -11,7 +11,7 @@ The project demonstrates object oriented programming, magic methods, and inherit
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributions](#contributions)
+- [Credits](#credits)
 - [Questions](#questions)
 
 ## Installation
@@ -80,7 +80,7 @@ gaussian_one + gaussian_one
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [License: MIT](https://opensource.org/licenses/MIT)
 
-## Contributions
+## Credits
 
 Starter code provided by AWS Machine Learning Foundations Nanodegree Program.
 
