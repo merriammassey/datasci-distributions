@@ -34,6 +34,15 @@ python3 -m pip install datasci-distributions
 
 ## Usage
 
+Use the package to calculate a variety of items related to Gaussian and Binomial distributions including mean, standard deviation, p (float) - probability of an event occurring, n (int) - number of trials from a dataset.
+
+In addition, the package can be used to:
+
+- plot a histogram of the instance variable data using matplotlib pyplot library,
+- calculate the probability density function and plot it,
+- add together two Binomial distrubtions with equal p or two Gaussian distributions, and
+- output the characteristics of the Gaussian instance.
+
 Start the Python interpreter from the terminal by entering:
 
 ```
@@ -65,15 +74,6 @@ gaussian_one.mean
 ```
 gaussian_one + gaussian_one
 ```
-
-Use the package to calculate a variety of items related to Gaussian and Binomial distributions including mean, standard deviation, p (float) - probability of an event occurring, n (int) - number of trials from a dataset.
-
-In addition, the package can be used to:
-
-- plot a histogram of the instance variable data using matplotlib pyplot library,
-- calculate the probability density function and plot it,
-- add together two Binomial distrubtions with equal p or two Gaussian distributions, and
-- output the characteristics of the Gaussian instance.
 
 ## License
 
