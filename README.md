@@ -4,7 +4,7 @@
 
 As part of an AWS Machine Learning course, I converted distribution code into a Python package by modularizing the code and creating the required files.
 
-The project demonstrates object oriented programming, magic methods, and inheritance of attributes and methods.
+The project demonstrates object oriented programming topics such as encapsulation, magic methods, and inheritance of attributes and methods.
 
 ## Table of Contents
 
