@@ -30,6 +30,12 @@ Consider setting up and activating a virtual environment to install the package 
 python3 -m pip install datasci-distributions
 ```
 
+Also, install [matplotlib](https://matplotlib.org/):
+
+```
+pip install matplotlib
+```
+
 [Additional information about installing PyPi packages.](https://packaging.python.org/tutorials/installing-packages/)
 
 ## Usage
@@ -49,16 +55,16 @@ Start the Python interpreter from the terminal by entering:
 python
 ```
 
-Then, use the package by entering:
+Then, use the package by entering the following commands:
 
 ```
-from distributions import Gaussian
+from datasci_distributions import Gaussian
 ```
 
 or
 
 ```
-from distributions import Binomial
+from datasci_distributions import Binomial
 ```
 
 Then use commands such as:
