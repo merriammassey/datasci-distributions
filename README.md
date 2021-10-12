@@ -2,7 +2,7 @@
 
 ## Description
 
-As part of an AWS Machine Learning course, I converted distribution code into a Python package by modularizing the code and creating the required files. Then, I distributed the package on PyPi.
+As part of an AWS Machine Learning course, I converted distribution code into a Python package by modularizing the code and creating the required files. Then, I distributed the package on [PyPi](https://pypi.org/project/datasci-distributions/).
 
 The project demonstrates object oriented programming topics such as encapsulation, magic methods, and inheritance of attributes and methods.
 
