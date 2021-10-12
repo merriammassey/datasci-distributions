@@ -2,7 +2,7 @@
 
 ## Description
 
-As part of an AWS Machine Learning course, I converted distribution code into a Python package by modularizing the code and creating the required files.
+As part of an AWS Machine Learning course, I converted distribution code into a Python package by modularizing the code and creating the required files. Then, I distributed the package on PyPi.
 
 The project demonstrates object oriented programming topics such as encapsulation, magic methods, and inheritance of attributes and methods.
 
@@ -40,7 +40,7 @@ pip install matplotlib
 
 ## Usage
 
-Use the package to calculate a variety of items related to Gaussian and Binomial distributions including mean, standard deviation, p (float) - probability of an event occurring, n (int) - number of trials from a dataset.
+Use the package to calculate Gaussian and Binomial distributions including mean, standard deviation, p (float) - probability of an event occurring, n (int) - number of trials from a dataset.
 
 In addition, the package can be used to:
 
